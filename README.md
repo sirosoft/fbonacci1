@@ -1,4 +1,4 @@
-# fbonacci1
+# fibonacci1
 class Solution {
   public:
     long long int nthFibonacci(long long int n){
